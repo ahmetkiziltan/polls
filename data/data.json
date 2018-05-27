@@ -1,0 +1,17 @@
+{
+    "companies": [
+      { 
+        "id": "1",
+        "name":"Konda"
+      },
+      { 
+        "id": "1",
+        "name":"Sonar"
+      },
+      { 
+        "id": "1",
+        "name":"ORC"
+      }
+
+    ]
+}
