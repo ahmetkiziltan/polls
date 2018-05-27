@@ -1,0 +1,57 @@
+{
+    "companies": [
+      { 
+        "id": "1",
+        "name":"Sonar"
+      },
+      { 
+        "id": "2",
+        "name":"Genar"
+      },
+      { 
+        "id": "3",
+        "name":"A&G"
+      },
+      { 
+        "id": "4",
+        "name":"Konsensus"
+      },
+      { 
+        "id": "15",
+        "name":"Ipsos"
+      },
+      { 
+        "id": "6",
+        "name":"Optimar"
+      },
+      { 
+        "id": "7",
+        "name":"ORC"
+      },
+      { 
+        "id": "8",
+        "name":"Akam"
+      },
+      { 
+        "id": "9",
+        "name":"AndyAr"
+      },
+      { 
+        "id": "10",
+        "name":"Varyans"
+      },
+      { 
+        "id": "11",
+        "name":"KamuAr"
+      },
+      { 
+        "id": "12",
+        "name":"Konda"
+      },
+      { 
+        "id": "13",
+        "name":"Gezici"
+      }
+    ]
+    
+}

@@ -3,5 +3,18 @@ extends layout
 block content
   h1= title
   p 2018 yılı Cumhurbaşkanlığı #{title}
-  p Anket Firmaları #{data.companies[0].name}
+  
+  
 
+  p Yapılan Son Anketler:
+
+  ul  
+  for poll in recent_polls.polls
+   p Araştırma Şirketi : #{poll.company_name}
+   li Recep Tayyip Erdoğan : #{poll.erdogan} - Muharrem İnce : #{poll.ince} - Meral Akşener : #{poll.aksener} - Selahattin Demirtaş : #{poll.demirtas} - Doğu Perinçek : #{poll.perincek}
+
+  p Araştırma Firmaları:
+  	
+  ul  
+  for company in data.companies
+   li #{company.name}

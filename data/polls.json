@@ -1,0 +1,28 @@
+{
+	"polls":[
+      {
+      	  "compnay" : "1",
+      	  "company_name" : "Sonar",
+          "count": "1000",
+          "type": "Yüzyüze görüşerek",
+          "tarih": "01/01/2020",
+          "erdogan": "42",
+          "ince": "24",
+          "aksener" : "26",
+          "demirtas" : "13", 
+          "perincek" : "1"
+      },
+      {
+      	  "compnay" : "1",
+      	  "company_name" : "Sonar",
+          "count": "1000",
+          "type": "Yüzyüze görüşerek",
+          "tarih": "01/01/2020",
+          "erdogan": "42",
+          "ince": "24",
+          "aksener" : "26",
+          "demirtas" : "13", 
+          "perincek" : "1"
+      }
+    ]
+}
